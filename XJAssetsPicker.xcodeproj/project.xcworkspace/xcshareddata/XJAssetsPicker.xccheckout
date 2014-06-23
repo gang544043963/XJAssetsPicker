@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F663CCAF-7844-4844-97B6-B79B8B2C32EB</string>
+	<key>IDESourceControlProjectName</key>
+	<string>XJAssetsPicker</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6B446CCC-04E0-4195-BA3B-19F16C351EBF</key>
+		<string>https://github.com/24NewStart/XJAssetsPicker.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>XJAssetsPicker.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6B446CCC-04E0-4195-BA3B-19F16C351EBF</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/24NewStart/XJAssetsPicker.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6B446CCC-04E0-4195-BA3B-19F16C351EBF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6B446CCC-04E0-4195-BA3B-19F16C351EBF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>XJAssetsPicker</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -2,8 +2,8 @@
 //  XJAssetsPickerTests.m
 //  XJAssetsPickerTests
 //
-//  Created by roya on 14-5-6.
-//  Copyright (c) 2014年 LPD. All rights reserved.
+//  Created by LuPengDa on 14-5-6.
+//  Copyright (c) 2014年 xj2014. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
